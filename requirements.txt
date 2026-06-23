@@ -1,0 +1,7 @@
+requests
+Pillow
+python-dotenv
+torch
+torchvision
+transformers
+streamlit
